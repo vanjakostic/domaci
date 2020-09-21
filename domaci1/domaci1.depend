@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1600726968 source:c:\users\user\desktop\Škola\programiranje\13.3.2020\domaci1\main.cpp
+	<iostream>
+	"list.hpp"
+	"cvor.hpp"
+	"digraf.hpp"
+
+1600724033 c:\users\user\desktop\Škola\programiranje\13.3.2020\domaci1\list.hpp
+	<stdlib.h>
+	<iostream>
+
+1600725078 c:\users\user\desktop\Škola\programiranje\13.3.2020\domaci1\cvor.hpp
+
+1600726944 c:\users\user\desktop\Škola\programiranje\13.3.2020\domaci1\digraf.hpp
+	"list.hpp"
+	"cvor.hpp"
+
